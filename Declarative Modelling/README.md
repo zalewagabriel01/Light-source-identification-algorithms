@@ -26,4 +26,11 @@ Here is the algorithm implemented for Blender:
 
 The algorithm can be tested using the instructions on the Wiki.
 
+![Original light source](original_lightsource.png)
+![Reconstructed light source](reconstructed_lightsource.png)
+![Marked patches on WrapperObject](patches_Wrapper1.png)
+![Marked patches on WrapperObject2](patches_Wrapper2.png)
+![Marked patches on WrapperObject3](patches_Wrapper3.png)
+![LightMap](LightMap.png)
+
 [1] Jolivet V., Plemenos D., Poulingeas P.: "Inverse Direct Lighting with a Monte Carlo Method and Declarative Modelling.", Sloot, P.M.A., Hoekstra, A.G., Tan, C.J.K., Dongarra, J.J. (eds) Computational Science — ICCS 2002. Lecture Notes in Computer Science, Springer Berlin Heidelberg, Vol. 2330, pp. 3-12, 2002

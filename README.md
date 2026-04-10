@@ -3,5 +3,5 @@ Three test algorithms providing the basis of identifying the unknown light sourc
 
 The implementations in Blender are representative of the algorithms' operational nature, providing a basis for more fleshed out algorithms in other designated programs.
 
-![Original light source](C:\Users\ninte\LightSourceIdentificationAlgorithms\original_lightsource.png)
+![Original light source](original_lightsource.png)
 ![Reconstructed light source](reconstructed_lightsource.png)

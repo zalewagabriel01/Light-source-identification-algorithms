@@ -23,5 +23,11 @@ Here is the algorithm implemented for Blender:
 
 The algorithm can be tested using the instructions on the Wiki.
 
+![Original light source](original_lightsource.png)
+![Ambient light](ambient_light.png)
+![Original heatmap](original_heatmap.png)
+![Reconstructed light source](reconstructed_light.png)
+![Reconstructed heatmap](reconstructed_heatmap.png)
+
 
 [1] Jiddi S., Robert P., Marchand E.: "Estimation of Position and Intensity of Dynamic Light Sources Using Cast Shadows on Textured Real Surfaces.", 2018 25th IEEE International Conference on Image Processing (ICIP), pp. 1063-1067, 2018

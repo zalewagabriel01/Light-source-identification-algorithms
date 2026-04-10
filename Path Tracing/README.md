@@ -14,4 +14,8 @@ Here is the algorithm implemented for Blender:
 
 The algorithm can be tested following the instructions on the Wiki.
 
+![Original light source](original_lightsource.png)
+![Reconstructed point light](reconstructed_pointlight.png)
+![Reconstructed sun light](reconstructed_sunlight.png)
+
 [1] Kasper M., Keivan N., Sibley G., Heckman C.: "Light Source Estimation with Analytical Path-tracing.", arXiv preprint arXiv:1701.04101, 2017
